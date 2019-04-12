@@ -1,0 +1,12 @@
+-compile
+/home/thomas/git/openjdk-jdk11u/src/jdk.jlink/share/classes/jdk/tools/jmod/resources/jmod_zh_CN.properties
+/home/thomas/git/openjdk-jdk11u/build/linux-x86_64-normal-server-release/support/gensrc/jdk.jlink/jdk/tools/jmod/resources/jmod_zh_CN.java
+ListResourceBundle
+-compile
+/home/thomas/git/openjdk-jdk11u/src/jdk.jlink/share/classes/jdk/tools/jmod/resources/jmod_ja.properties
+/home/thomas/git/openjdk-jdk11u/build/linux-x86_64-normal-server-release/support/gensrc/jdk.jlink/jdk/tools/jmod/resources/jmod_ja.java
+ListResourceBundle
+-compile
+/home/thomas/git/openjdk-jdk11u/src/jdk.jlink/share/classes/jdk/tools/jmod/resources/jmod.properties
+/home/thomas/git/openjdk-jdk11u/build/linux-x86_64-normal-server-release/support/gensrc/jdk.jlink/jdk/tools/jmod/resources/jmod.java
+ListResourceBundle

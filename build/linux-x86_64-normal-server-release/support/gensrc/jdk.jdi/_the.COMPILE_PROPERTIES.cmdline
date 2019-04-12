@@ -1,0 +1,12 @@
+-compile
+/home/thomas/git/openjdk-jdk11u/src/jdk.jdi/share/classes/com/sun/tools/jdi/resources/jdi_zh_CN.properties
+/home/thomas/git/openjdk-jdk11u/build/linux-x86_64-normal-server-release/support/gensrc/jdk.jdi/com/sun/tools/jdi/resources/jdi_zh_CN.java
+ListResourceBundle
+-compile
+/home/thomas/git/openjdk-jdk11u/src/jdk.jdi/share/classes/com/sun/tools/jdi/resources/jdi.properties
+/home/thomas/git/openjdk-jdk11u/build/linux-x86_64-normal-server-release/support/gensrc/jdk.jdi/com/sun/tools/jdi/resources/jdi.java
+ListResourceBundle
+-compile
+/home/thomas/git/openjdk-jdk11u/src/jdk.jdi/share/classes/com/sun/tools/jdi/resources/jdi_ja.properties
+/home/thomas/git/openjdk-jdk11u/build/linux-x86_64-normal-server-release/support/gensrc/jdk.jdi/com/sun/tools/jdi/resources/jdi_ja.java
+ListResourceBundle

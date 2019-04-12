@@ -1,0 +1,16 @@
+-compile
+/home/thomas/git/openjdk-jdk11u/src/jdk.jlink/share/classes/jdk/tools/jlink/resources/jlink.properties
+/home/thomas/git/openjdk-jdk11u/build/linux-x86_64-normal-server-release/support/gensrc/jdk.jlink/jdk/tools/jlink/resources/jlink.java
+ListResourceBundle
+-compile
+/home/thomas/git/openjdk-jdk11u/src/jdk.jlink/share/classes/jdk/tools/jlink/resources/jlink_ja.properties
+/home/thomas/git/openjdk-jdk11u/build/linux-x86_64-normal-server-release/support/gensrc/jdk.jlink/jdk/tools/jlink/resources/jlink_ja.java
+ListResourceBundle
+-compile
+/home/thomas/git/openjdk-jdk11u/src/jdk.jlink/share/classes/jdk/tools/jlink/resources/plugins.properties
+/home/thomas/git/openjdk-jdk11u/build/linux-x86_64-normal-server-release/support/gensrc/jdk.jlink/jdk/tools/jlink/resources/plugins.java
+ListResourceBundle
+-compile
+/home/thomas/git/openjdk-jdk11u/src/jdk.jlink/share/classes/jdk/tools/jlink/resources/jlink_zh_CN.properties
+/home/thomas/git/openjdk-jdk11u/build/linux-x86_64-normal-server-release/support/gensrc/jdk.jlink/jdk/tools/jlink/resources/jlink_zh_CN.java
+ListResourceBundle

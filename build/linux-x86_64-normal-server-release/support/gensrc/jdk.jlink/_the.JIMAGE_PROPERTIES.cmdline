@@ -1,0 +1,4 @@
+-compile
+/home/thomas/git/openjdk-jdk11u/src/jdk.jlink/share/classes/jdk/tools/jimage/resources/jimage.properties
+/home/thomas/git/openjdk-jdk11u/build/linux-x86_64-normal-server-release/support/gensrc/jdk.jlink/jdk/tools/jimage/resources/jimage.java
+ListResourceBundle
